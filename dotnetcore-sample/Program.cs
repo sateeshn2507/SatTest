@@ -18,7 +18,7 @@ namespace dotnetcore_sample
                 .UseStartup<Startup>()
                 .UseApplicationInsights()
                 .Build();
-
+            bnbvn
             host.Run();
         }
     }
