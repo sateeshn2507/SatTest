@@ -5,14 +5,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.5.0" />
-    <PackageReference Include="MSTest.TestAdapter" Version="1.2.0" />
-    <PackageReference Include="MSTest.TestFramework" Version="1.2.0" />
-    <PackageReference Include="YamlDotNet" Version="4.3.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.0.2" />
+    <PackageReference Include="Microsoft.UnitTestFramework.Extensions" Version="1.0.0.3" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\dotnetcore-sample\dotnetcore-sample.csproj" />
+    <Reference Include="dotnetcore-sample">
+      <HintPath>..\dotnetcore-sample\bin\Debug\netcoreapp2.0\dotnetcore-sample.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
   <ItemGroup>
