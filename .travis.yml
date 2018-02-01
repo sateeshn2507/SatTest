@@ -1,2 +1,4 @@
 ﻿language: CSharp
 solution: dotnetcore-sample.sln
+install:
+- dotnet restore
