@@ -1,7 +1,3 @@
 language: csharp  
-mono: none
-dotnet: latest
-dist: trusty
-sudo: false
 solution: dotnetcore-sample.sln
  
