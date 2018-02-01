@@ -1,4 +1,8 @@
-﻿language: CSharp
-solution: dotnetcore-sample.sln
+language: csharp
+dist: trusty
+mono: none
+dotnet: 1.0.1
 install:
 - dotnet restore
+script:
+- dotnet build
