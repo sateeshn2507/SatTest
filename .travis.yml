@@ -1,9 +1,7 @@
 language: csharp  
 mono: none
-dotnet: 2.0.0
+dotnet: 4.5
 dist: trusty
 sudo: false
 solution: dotnetcore-sample.sln
-script: 
-- dotnet restore
-- dotnet build
+ 
