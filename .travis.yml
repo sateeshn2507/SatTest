@@ -1,6 +1,6 @@
 language: csharp  
 mono: none
-dotnet: 4.0
+dotnet: latest
 dist: trusty
 sudo: false
 solution: dotnetcore-sample.sln
