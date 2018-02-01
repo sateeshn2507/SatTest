@@ -1,2 +1,3 @@
-﻿language: CSharp
+language: csharp  
 solution: dotnetcore-sample.sln
+ 
