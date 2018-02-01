@@ -1,2 +1,0 @@
-﻿Pulling missing Docker images. To cancel this download, close the command prompt window. To disable image auto-pull, see Tools > Options > Container Tools.
-docker pull microsoft/aspnetcore:2.0
