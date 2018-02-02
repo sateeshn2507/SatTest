@@ -139,3 +139,4 @@ C:\Users\sateesh\Documents\GitHub\SatTest\HMISample\bin\Microsoft.Owin.Security.
 C:\Users\sateesh\Documents\GitHub\SatTest\HMISample\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\sateesh\Documents\GitHub\SatTest\HMISample\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\sateesh\Documents\GitHub\SatTest\HMISample\obj\Debug\HMISample.dll
+C:\Users\sateesh\Documents\GitHub\SatTest\HMISample\obj\Debug\HMISample.csprojResolveAssemblyReference.cache

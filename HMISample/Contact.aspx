@@ -4,8 +4,10 @@
     <h2><%: Title %>.</h2>
     <h3>Your contact page.</h3>
     <address>
-        One Microsoft Way<br />
-        Redmond, WA 98052-6399<br />
+      IT People Corporation, Inc.<br />
+One Copley Parkway, Suite 216,<br />
+Morrisville, NC 27560, USA.<br />
+Telephone : 919.806.3535<br />
         <abbr title="Phone">P:</abbr>
         425.555.0100
     </address>
